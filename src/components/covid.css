@@ -1,0 +1,55 @@
+.body {
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    background-color: #000000;
+    font-family: sans-serif;
+    text-align: center;
+    height: 800px;
+  }
+  .card{
+      margin-top: 50px;
+      height: 250px;
+      
+  
+  
+  }
+  
+  .card_inner{
+      margin-top: 40px;
+  }
+  .card_name{
+      font-size: 10px;
+  }
+  span{
+      font-size: 30px;
+      font-weight: 700;
+  }
+  .card_total{
+      font-size: 40px;
+      font-weight: 900;
+      text-shadow: 5px 5px #000000;
+      margin-top: -9px;
+  }
+  .c1{
+      background-color: blue;
+  }
+  .c2{
+      background-color: green;
+  }
+  .c3{
+      background-color: #e6e600;
+  }
+  .c4{
+      background-color: #ff6600;
+  }
+  .c5{
+      background-color: #8080ff;
+  }
+  .c6{
+      background-color: red;
+  }
+  
+  .cir{
+      color: red;
+      font-size: 50px;
+  }
